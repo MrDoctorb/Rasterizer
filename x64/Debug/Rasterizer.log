@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\zane\Desktop\Stuff\Schoolwork\Computer Graphics\Rasterizer\Rasterizer\misc.h(9,71): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Rasterizer.vcxproj -> C:\Users\zane\Desktop\Stuff\Schoolwork\Computer Graphics\Rasterizer\x64\Debug\Rasterizer.exe
